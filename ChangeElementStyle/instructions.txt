@@ -1,0 +1,10 @@
+* add the necessary JS code to make the page work as follows:
+
+1. when the user selects a valid theme from the drop-down list, the "Set Theme" button is enabled.
+2. when the user selects the "Select Theme" option, the "Set Theme" button is disabled.
+3. when the user clicks on the "Set Theme" button, the corresponding theme is set.
+
+NOTES:
+
+1. do not change any HTML or CSS. just add JS.
+2. do not set the element style directly in JS. use the className or classList properties.

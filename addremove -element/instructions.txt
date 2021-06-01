@@ -1,0 +1,14 @@
+* add the necessary JS code to make the page work as follows:
+
+1. the user clicks the "Add Element" button, an element is added to the div with ID "elements".
+2. the HTML for the added element is as follows:
+
+<div class="element">
+    <h3>Element {some ID number here}</h3>
+    <h4>This is an element</h4>
+    <button>Delete</button>
+</div>
+
+3. when the user clicks the "Delete" button in an element. the entire element containing the button is deleted.
+
+NOTE: no changes to the HTML or CSS are allowed. only add JS.

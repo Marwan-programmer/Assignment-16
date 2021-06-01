@@ -1,0 +1,12 @@
+* add the necessary JS code to make the page work as follows:
+
+1. the user enters numbers in "Value 1" and "Value 2".
+2. the user selects the desired operation to use from the drop-down list.
+3. the user then clicks the "Calculate" button to show the result in "Result".
+4. if the user leaves a value empty, it will be converted to 0.
+5. if the user enter a non-numeric string the page will alert the following message:
+	"Value X must be a number"
+	
+	where X is 1 or 2.
+	
+NOTE: the only change you are allowed to make to the HTML is adding IDs to the elements. not other changes are allowed.

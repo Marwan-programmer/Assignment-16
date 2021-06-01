@@ -1,0 +1,9 @@
+main {
+    width: 50%;
+    border: gray 1px solid;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    padding: 100px;
+}
