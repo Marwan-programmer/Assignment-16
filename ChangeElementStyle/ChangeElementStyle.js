@@ -18,9 +18,9 @@ select.addEventListener("change",validoption);
 function color(e){
     e.preventDefault();
 
-   let valuecolor=select.options[select.selectedIndex].text;
+   let valuecolor=select.options[select.selectedIndex].value;
         div=document.querySelector("#content")
-        div.style.color=valuecolor;
+        div.className=valuecolor;
 }
 
 
